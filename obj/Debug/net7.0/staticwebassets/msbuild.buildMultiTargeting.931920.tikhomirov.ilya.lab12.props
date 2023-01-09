@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\931920.tikhomirov.ilya.lab12.props" />
+</Project>

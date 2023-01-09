@@ -1,0 +1,45 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _931920.tikhomirov.ilya.lab12
+build_property.RootNamespace = _931920.tikhomirov.ilya.lab12
+build_property.ProjectDir = C:\Users\tikho\source\repos\931920.tikhomirov.ilya.lab12\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\tikho\source\repos\931920.tikhomirov.ilya.lab12
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/tikho/source/repos/931920.tikhomirov.ilya.lab12/Views/Calc/Div_error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY1xEaXZfZXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tikho/source/repos/931920.tikhomirov.ilya.lab12/Views/Calc/Manual.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY1xNYW51YWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tikho/source/repos/931920.tikhomirov.ilya.lab12/Views/Calc/ManualWithSeparateHandlers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY1xNYW51YWxXaXRoU2VwYXJhdGVIYW5kbGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tikho/source/repos/931920.tikhomirov.ilya.lab12/Views/Calc/ModelBindingInParameters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY1xNb2RlbEJpbmRpbmdJblBhcmFtZXRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tikho/source/repos/931920.tikhomirov.ilya.lab12/Views/Calc/ModelBindingInSeparateModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY1xNb2RlbEJpbmRpbmdJblNlcGFyYXRlTW9kZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tikho/source/repos/931920.tikhomirov.ilya.lab12/Views/Calc/Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY1xSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tikho/source/repos/931920.tikhomirov.ilya.lab12/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

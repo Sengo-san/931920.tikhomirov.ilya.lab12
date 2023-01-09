@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "RG1RKEliNQTMiAarr6BB8V0SQsa4HeSFAByIqxBrL/8=",
+  "Source": "931920.tikhomirov.ilya.lab12",
+  "BasePath": "_content/931920.tikhomirov.ilya.lab12",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "931920.tikhomirov.ilya.lab12\\wwwroot",
+      "Source": "931920.tikhomirov.ilya.lab12",
+      "ContentRoot": "C:\\Users\\tikho\\source\\repos\\931920.tikhomirov.ilya.lab12\\wwwroot\\",
+      "BasePath": "_content/931920.tikhomirov.ilya.lab12",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\tikho\\source\\repos\\931920.tikhomirov.ilya.lab12\\wwwroot\\Styles\\style.css",
+      "SourceId": "931920.tikhomirov.ilya.lab12",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tikho\\source\\repos\\931920.tikhomirov.ilya.lab12\\wwwroot\\",
+      "BasePath": "_content/931920.tikhomirov.ilya.lab12",
+      "RelativePath": "Styles/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Styles\\style.css"
+    }
+  ]
+}
